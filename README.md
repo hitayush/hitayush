@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hitayush</h1>
 
-<h3 align="center">🚀 CSE Student | Web Developer | AI Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=CSE+Student+%7C+Web+Developer+%7C+AI+Enthusiast" />
+</p>
 
 ---
 
@@ -19,7 +21,7 @@
 
 - 🎓 Computer Science Engineering Student  
 - 💻 Learning Web Development & AI  
-- 🤖 AI | DATA SCIENCE | PYTHON  
+- 🤖 AI | Data Science | Python  
 - ⚡ Interested in Data Science & Machine Learning  
 
 ---
@@ -43,7 +45,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=hitayush&show_icons=true&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=hitayush&theme=tokyonight"/>
 
 </p>
 
