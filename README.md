@@ -78,12 +78,6 @@ Outside code — I do freelance cinematography & video editing, and I draw inspi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hitayush&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=8892b0&ring_color=00f7ff" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=hitayush&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff&sideLabels=8892b0&dates=8892b0" height="180" alt="Streak Stats" />
-
-<br/><br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=8892b0&langs_count=8" height="160" alt="Top Languages" />
 
 <br/><br/>
@@ -93,13 +87,5 @@ Outside code — I do freelance cinematography & video editing, and I draw inspi
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=hitayush&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true" width="95%" alt="Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0a192f,100:0d1117&height=160&section=footer&text=Let%27s+build+something+real+%F0%9F%9A%80&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65&descFontColor=8892b0" />
 
 </div>
