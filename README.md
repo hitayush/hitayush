@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Careerly+AI+%E2%80%94+AI+career+guidance+engine;Full+Stack+Developer+%40+DialDoctor;CSE+%E2%80%9928+%40+GHRCEMN+Nagpur;Open+to+Internships+%26+Collabs+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+DialDoctor;Building+Python+Data+Dashboard;CSE+%E2%80%9928+%40+GHRCEMN+Nagpur;Open+to+Internships+%26+Collabs+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -33,10 +33,8 @@ Outside code — I do freelance cinematography & video editing, and I draw inspi
 
 | Project | Stack | Status |
 |---|---|---|
-| 🤖 **Careerly AI** — AI career guidance chatbot | React · Vite · Node.js · Botpress | Presented ✅ |
 | 🏥 **DialDoctor** — Healthtech platform | Next.js · Supabase · PostgreSQL | Active 🔨 |
 | 📊 **Python Data Dashboard** — Analytics + viz | FastAPI · React · Pandas · Recharts | Building 🔨 |
-| 📱 **E-Cell App** — Flutter event app | Flutter · Supabase · Provider | Building 🔨 |
 
 ---
 
