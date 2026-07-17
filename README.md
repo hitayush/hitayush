@@ -1,58 +1,74 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=260&section=header&text=HITAYUSH%20DANGE&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20DialDoctor&descFontSize=16&descAlignY=65" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0F2057,100:00D4A0&height=280&section=header&text=HITAYUSH%20DANGE&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%40%20DialDoctor&descFontSize=18&descAlignY=58" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+at+DialDoctor;Next.js+%2B+Supabase+%2B+Postgres;B.Tech+CSE+%40+GHRCEMN%2C+Nagpur;Currently+learning+Data+Science" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=00D4A0&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+name%3A+%22Hitayush%22%2C+stack%3A+%22MERN%2FNext%22+%7D%3B;building+%40DialDoctor+%E2%80%94+search+%2B+backend;shipping+Next.js+%2B+Supabase+%2B+Postgres;learning%3A+Data+Science%2C+DSA+in+Python" alt="Typing animation" />
 
 <br/>
 
-<a href="https://linkedin.com/in/hitayush-dange-65831a38b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/hitayush">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/hitayush-dange-65831a38b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/hitayush"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hitayush&style=flat-square&color=00f7ff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=hitayush&style=for-the-badge&color=00D4A0&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+```bash
+$ whoami
+Hitayush Dange — B.Tech CSE, GHRCEM Nagpur (2024–2028), Sem 5
+
+$ current_role
+Full Stack Developer @ DialDoctor (healthtech, GHRCEM Incubation Centre)
+
+$ stack --primary
+Next.js · Supabase · PostgreSQL (pg_trgm, PostGIS) · Cloudflare R2
+
+$ learning --now
+Data Science · DSA (Python)
+
+$ off_the_clock
+freelance cinematography & video editing · harmonica
+```
+
+<br/>
+
+<div align="center">
+
+### Snake Contribution Graph
+
+<img src="https://raw.githubusercontent.com/hitayush/hitayush/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+
+<sub>Needs the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action set up on the profile repo to generate this file — see setup note at the bottom.</sub>
 
 </div>
 
 ---
 
-### About
-
-I'm a CSE student at GH Raisoni College of Engineering & Management, Nagpur, currently in my 5th semester. Alongside college, I work as a Full Stack Developer at **DialDoctor**, a healthtech startup incubated at the GHRCEM Incubation Centre, where I build search infrastructure, UI, and legal/compliance-facing features.
-
-Outside of that, I freelance in cinematography and video editing, and I'm currently learning Data Science and DSA in Python.
-
-- **Base:** Nagpur, India
-- **Working on:** DialDoctor (Next.js, Supabase, Postgres) · ClimbX Digital agency site
-- **Learning:** Data Science, DSA
-- **Also into:** harmonica, video editing
-
----
-
 ### Tech Stack
 
-**Languages & Web**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nextjs,nodejs,fastapi,express&theme=dark" />
+**Languages & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,nodejs,fastapi,express&theme=dark" />
 
 **Data & Backend**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=postgres,supabase,cloudflare&theme=dark" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 
-**Tools**
+**Tools & OS**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,postman&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda&theme=dark" />
+</div>
 
 ---
 
@@ -75,24 +91,28 @@ Outside of that, I freelance in cinematography and video editing, and I'm curren
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitayush&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" height="185" />
-  <img src="https://streak-stats.demolab.com?user=hitayush&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hitayush&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00D4A0&icon_color=00D4A0&text_color=c9d1d9" height="185" />
+  <img src="https://streak-stats.demolab.com?user=hitayush&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4A0&fire=2563EB&currStreakLabel=00D4A0" height="185" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitayush&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=6" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitayush&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4A0&text_color=c9d1d9&langs_count=6" height="185" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitayush&theme=tokyo-night&hide_border=true&area=true&area_color=00f7ff&line=00f7ff&point=ff6b6b&bg_color=0d1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitayush&theme=tokyo-night&hide_border=true&area=true&area_color=00D4A0&line=00D4A0&point=2563EB&bg_color=0d1117" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0d1117&height=160&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0F2057,100:00D4A0&height=160&section=footer" width="100%" />
 </div>
+
+<br/>
+
+<sub><b>Snake graph setup:</b> add <code>.github/workflows/snake.yml</code> using the <a href="https://github.com/Platane/snk">Platane/snk</a> action to auto-generate <code>github-contribution-grid-snake-dark.svg</code> on an <code>output</code> branch — takes ~2 min, fully automated after that.</sub>
