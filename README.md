@@ -39,11 +39,13 @@ freelance cinematography & video editing · harmonica
 
 <div align="center">
 
-### Snake Contribution Graph
+### Contribution Snake
 
-<img src="https://raw.githubusercontent.com/hitayush/hitayush/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-
-<sub>Needs the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action set up on the profile repo to generate this file — see setup note at the bottom.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitayush/hitayush/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitayush/hitayush/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hitayush/hitayush/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -115,4 +117,4 @@ freelance cinematography & video editing · harmonica
 
 <br/>
 
-<sub><b>Snake graph setup:</b> add <code>.github/workflows/snake.yml</code> using the <a href="https://github.com/Platane/snk">Platane/snk</a> action to auto-generate <code>github-contribution-grid-snake-dark.svg</code> on an <code>output</code> branch — takes ~2 min, fully automated after that.</sub>
+<sub>Snake graph requires a one-time GitHub Action setup (<code>.github/workflows/snake.yml</code>, uses <a href="https://github.com/Platane/snk">Platane/snk</a>) — generates automatically on every push after that.</sub>
