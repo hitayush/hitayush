@@ -77,22 +77,20 @@ hitayush@nagpur:~$ echo $STATUS
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hitayush-dange&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=F5A623&icon_color=E08A00&text_color=ffffff&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hitayush-dange&hide_border=true&background=1A1A1A&stroke=F5A623&ring=E08A00&fire=F5A623&currStreakLabel=F5A623" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hitayush&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=F5A623&icon_color=E08A00&text_color=ffffff&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hitayush&hide_border=true&background=1A1A1A&stroke=F5A623&ring=E08A00&fire=F5A623&currStreakLabel=F5A623" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitayush-dange&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=F5A623&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitayush&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=F5A623&text_color=ffffff" width="48%" />
 </div>
-
-> ⚠️ Replace `hitayush-dange` above with your actual GitHub username in every stats/streak URL — the cards only render for a real, public username.
 
 <br>
 
 ## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/hitayush-dange/hitayush-dange/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/hitayush/hitayush/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <details>
