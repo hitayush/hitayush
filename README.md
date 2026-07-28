@@ -5,8 +5,8 @@
 
   <p>
     <a href="https://github.com/hitayush?tab=followers"><img src="https://img.shields.io/github/followers/hitayush?label=Follow&style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" /></a>
-    <a href="https://portfolio-page-hitayush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:hitayushdange@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-email%20me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hitayush" /></a>
+    <a href="https://hitayush-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailID:hitayushdange@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-email%20me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hitayush" /></a>
   </p>
 </div>
 
