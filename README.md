@@ -10,7 +10,7 @@
   </p>
 </div>
 
-I’m a Computer Science student and full-stack developer who enjoys taking an idea from its first sketch to a polished, usable product. I’m especially drawn to projects where thoughtful engineering can make a real difference—whether that means shaping a smooth user experience, working through the logic behind the scenes, or finding the story hidden inside data.
+I’m a Computer Science student and fullstack developer who enjoys taking an idea from its first sketch to a polished, usable product. I’m especially drawn to projects where thoughtful engineering can make a real difference—whether that means shaping a smooth user experience, working through the logic behind the scenes, or finding the story hidden inside data.
 
 Right now, I’m growing at the intersection of **full-stack development**, **AI/ML**, and **data analysis**. I like asking practical questions, learning quickly, and building answers that are clear, useful, and human-centred.
 
