@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://github.com/hitayush?tab=followers"><img src="https://img.shields.io/github/followers/hitayush?label=Follow&style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" /></a>
-    <a href="https://hitayush-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.hitayush.space/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="mailID:hitayushdange@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-email%20me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hitayush" /></a>
   </p>
 </div>
@@ -18,7 +18,7 @@ Right now, I’m growing at the intersection of **full-stack development**, **AI
 
 ### 🩺 [DialDoctor.in](https://dialdoctor.in)
 
-I’m working at **DialDoctor**, contributing to a healthcare platform focused on making doctor discovery and appointments more accessible and approachable. It is where I get to turn product-minded development into real-world impact.
+I worked at **DialDoctor**, contributing to a healthcare platform focused on making doctor discovery and appointments more accessible and approachable. It is where I get to turn product-minded development into real-world impact.
 
 ### 📊 Data Analysis Dashboard
 
