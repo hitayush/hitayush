@@ -1,119 +1,71 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Hitayush&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Explorer%20%C2%B7%20Data%20Analyst&descAlignY=58&animation=fadeIn&color=0:0f172a,50:1d4ed8,100:7c3aed&fontColor=ffffff" />
 
-  <a href="https://github.com/hitayush"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+useful+products%2C+one+thoughtful+feature+at+a+time.;Full-stack+development+meets+data-driven+curiosity.;Turning+ideas+into+experiences+people+can+use." alt="Typing introduction" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Hitayush%20Dange&fontSize=52&fontAlignY=38&desc=I%20build%20software%20that%20makes%20everyday%20things%20easier.&descAlignY=62&animation=fadeIn&color=0:08111f,48:12304a,100:553c9a&fontColor=f8fafc" alt="Hitayush Dange — building software that makes everyday things easier" />
 
-  <p>
-    <a href="https://github.com/hitayush?tab=followers"><img src="https://img.shields.io/github/followers/hitayush?label=Follow&style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" /></a>
-    <a href="https://www.hitayush.space/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailID:hitayushdange@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-email%20me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hitayush" /></a>
-  </p>
+<a href="https://github.com/hitayush"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=850&color=7DD3FC&center=true&vCenter=true&width=760&lines=Making+healthcare+discovery+feel+more+approachable.;Exploring+how+AI+can+help+with+career+questions.;Turning+raw+data+into+something+you+can+act+on.;Building+small%2C+useful+tools+for+everyday+problems." alt="Animated text: making healthcare discovery more approachable, exploring AI for career questions, turning raw data into action, and building useful tools." /></a>
+
+<p>
+  <a href="https://www.hitayush.space/"><img src="https://img.shields.io/badge/PORTFOLIO-see%20what%20I'm%20building-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="mailto:hitayushdange@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say%20hello-a78bfa?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://github.com/hitayush?tab=followers"><img src="https://img.shields.io/github/followers/hitayush?label=FOLLOW&style=for-the-badge&logo=github&color=1e293b" alt="Follow me on GitHub" /></a>
+</p>
+
 </div>
 
-I’m a Computer Science student and fullstack developer who enjoys taking an idea from its first sketch to a polished, usable product. I’m especially drawn to projects where thoughtful engineering can make a real difference—whether that means shaping a smooth user experience, working through the logic behind the scenes, or finding the story hidden inside data.
+### A little about me
 
-Right now, I’m growing at the intersection of **full-stack development**, **AI/ML**, and **data analysis**. I like asking practical questions, learning quickly, and building answers that are clear, useful, and human-centred.
+I'm a Computer Science student who likes building things that make a real task feel simpler. That might be finding a doctor, figuring out a career direction, or making a pile of data easier to understand. I enjoy working across the stack and learning whatever a project needs along the way.
 
-## Building & working on
+### On my workbench
 
-### 🩺 [DialDoctor.in](https://dialdoctor.in)
-
-I worked at **DialDoctor**, contributing to a healthcare platform focused on making doctor discovery and appointments more accessible and approachable. It is where I get to turn product-minded development into real-world impact.
-
-### 📊 Data Analysis Dashboard
-
-Building an interactive **Data Analysis Dashboard** to turn raw data into clear, actionable insights through thoughtful visualisation and analysis.
-
-### 🤖 Careerly AI
-
-**Careerly AI** is an AI-powered career-guidance chatbot designed to help people explore career paths, get practical guidance, and make more informed next steps.
-
-### 🎓 Student Attendance Tracker
-
-I’m also building a **Student Attendance Tracker**—a practical tool intended to make attendance management simpler, more organised, and easier to understand. It is an opportunity to combine full-stack problem-solving with a real, everyday workflow.
-
-## Skills & tools
-
-### Programming languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### Web & frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Data analysis & Python libraries
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-### AI & machine learning
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Large Language Models](https://img.shields.io/badge/LLMs-AI%20Integration-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-
-### Developer tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-5A67D8?style=for-the-badge&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-## My developer compass
-
-| Focus | What it means to me |
+| Project | The idea |
 | :-- | :-- |
-| 🌐 Full-stack development | Creating complete experiences—from interfaces people enjoy to the systems that power them. |
-| 🤖 AI & machine learning | Exploring how intelligent systems can turn complex problems into helpful tools. |
-| 📊 Data analysis | Finding patterns, asking better questions, and turning raw information into decisions. |
-| ✨ Product thinking | Building with empathy, clarity, and the person on the other side of the screen in mind. |
+| 🩺 **[DialDoctor.in](https://dialdoctor.in)** | I contributed to a healthcare platform focused on making doctor discovery and appointments more accessible. |
+| 📊 **Data Analysis Dashboard** | An interactive dashboard in progress: take raw data, find the useful signal, make it easier to act on. |
+| 🤖 **Careerly AI** | A career-guidance chatbot to help people explore options and think through practical next steps. |
+| 🎓 **Student Attendance Tracker** | A practical tool in progress for making attendance management less of a chore. |
 
-## Currently exploring
+### Tools I reach for
 
-```text
-→ Designing reliable, user-friendly full-stack applications
-→ Applying AI/ML ideas to real-world use cases
-→ Using data analysis to turn curiosity into insight
-→ Shipping projects, learning in public, and improving with every iteration
-```
+**Code & web**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## GitHub at a glance
+**Data & AI**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white)
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hitayush&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitayush&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" alt="Top languages" />
-</div>
+**Daily drivers**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-5A67D8?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hitayush&hide_border=true&background=0D1117&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-</div>
+### Lately, I've been
 
-## Let’s connect
-
-<div align="center">
-  <a href="https://portfolio-page-hitayush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-portfolio--page--hitayush.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:hitayushdange@gmail.com"><img src="https://img.shields.io/badge/Gmail-hitayushdange%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/hitayush"><img src="https://img.shields.io/badge/GitHub-@hitayush-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-</div>
+- Building full-stack apps and polishing the details that make them feel good to use
+- Exploring practical AI/ML ideas, especially around career guidance
+- Finding better ways to turn data into clear visual stories
 
 <div align="center">
   <br />
-  <i>“The best projects begin with curiosity—and get better when they become useful.”</i>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:1d4ed8,100:7c3aed" />
+  <a href="https://github.com/hitayush"><img src="https://github-readme-stats.vercel.app/api?username=hitayush&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&icon_color=7dd3fc&text_color=c9d1d9&rank_icon=github" alt="Hitayush's GitHub contribution stats" /></a>
+  <br /><br />
+  <i>Good software doesn't need to shout. It just makes the next step easier.</i>
+  <br /><br />
+  <a href="https://www.hitayush.space/">Portfolio</a> · <a href="mailto:hitayushdange@gmail.com">Email</a> · <a href="https://github.com/hitayush">GitHub</a>
+  <br /><br />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:08111f,48:12304a,100:553c9a" alt="" />
 </div>
